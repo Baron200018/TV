@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 radio=true,AM1400星岛电台
-http://104.251.118.50:8765/;?icy=http
-
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
 
