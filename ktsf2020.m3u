@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 radio=true,AM1400星岛电台
+http://104.251.118.50:8765/;?icy=http
+
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
 
@@ -9,15 +12,163 @@ http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbG
 #EXTINF:0 group-title="电视+电台",singtaotv星電視
 https://www.youtube.com/channel/UCYWSlgQB1BpfQTkNm_P5qIw
 
+#EXTINF:0 group-title="养生",胡乃文開講 - 名醫談養生
+https://www.youtube.com/channel/UCYUHZk66njfU1VFwSviXPGQ
+
+#EXTINF:0 group-title="美食",冯小厨
+https://www.youtube.com/channel/UCjVQ9WHx9Lu0kNFaadzDKUg
+
+#EXTINF:0 group-title="美食",天天相見廚房
+https://www.youtube.com/channel/UC1SaDcKftNgCW-I34K462yQ
+
+#EXTINF:0 group-title="美食",我是马小坏
+https://www.youtube.com/channel/UCdZ4iamY-QJDEZhBckQpzrQ
+
+#EXTINF:0 group-title="养生",中老年讲堂
+https://www.youtube.com/channel/UCnepCuk2T3qGv0CajAI882w
+
+#EXTINF:0 group-title="养生",健康2.0
+https://www.youtube.com/channel/UCAqzHNzLTC6Vm5UYE7xw_2A
+
+#EXTINF:0 group-title="美食",渔耕笔记
+https://www.youtube.com/channel/UCXH3_TMYJA-zHRU7yt9-85w
+
+#EXTINF:0 group-title="美食",美国生活365
+https://www.youtube.com/channel/UCIfBIUxWbr46CXW1970V0Zg
+
+#EXTINF:0 group-title="养生",保健养生吃喝玩乐
+https://www.youtube.com/channel/UCRTNt7aCy4AHkoiRH5qf5wA
+
+#EXTINF:0 group-title="养生",老安谈健康【中医养生】
+https://www.youtube.com/channel/UCdqiPxmSWJn_AAxipn41tPQ
+
+#EXTINF:0 group-title="养生",健康管理师李晓
+https://www.youtube.com/channel/UCrvou9rvRczF9-LjhMZxYww
+
+#EXTINF:0 group-title="美食",侯老师说食疗
+https://www.youtube.com/channel/UCeeJBI1T7BsfUGKpbbxG0kQ
+
+#EXTINF:0 group-title="美食",Peace And Yummy 和平與美味
+https://www.youtube.com/channel/UC5tbGxj7BCHjvJI0iV66uHg
+
+#EXTINF:0 group-title="美食",jin的美食
+https://www.youtube.com/channel/UCbRfjXN21U5qEDgplTnKr7w
+
+#EXTINF:0 group-title="美食",職人吹水
+https://www.youtube.com/channel/UCZVmFDfn5WnixrHNf25MeJQ
+
+#EXTINF:0 group-title="美食",新鲜事每天都有
+https://www.youtube.com/channel/UC58SxHOA5_HUDDQROIY7XpA
+
+#EXTINF:0 group-title="美食",心灵舒果
+https://www.youtube.com/user/tvbc0m
+
+#EXTINF:0 group-title="美食",Morgane's
+https://www.youtube.com/channel/UChEtGCkxpyE5JhMIPYdvhsA
+
+#EXTINF:0 group-title="美食",Owen Fusion Kitchen
+https://www.youtube.com/channel/UCoYIzCCXoz8nV8WN3tp3eUw
+
 #EXTINF:0 group-title="台湾媒体",新唐人亞太電視台NTDAPTV
 https://www.youtube.com/user/NTDAPTV
+
+三立LIVE新聞（含有直播）
+https://www.youtube.com/user/setnews159
+
+年代向钱看
+https://www.youtube.com/channel/UCBuHkb1AS_yRQ71meFNQ3VQ
+
+#EXTINF:0 group-title="台湾媒体",民視新聞網
+https://www.youtube.com/user/FTVCP
+
+#EXTINF:0 group-title="台湾媒体",大爱电视
+https://www.youtube.com/user/DaAiVideo
+
+#EXTINF:0 group-title="台湾媒体",FTVLIVE
+https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA
+
+#EXTINF:0 group-title="台湾媒体",东森财经新闻
+https://www.youtube.com/user/57ETFN
+
+#EXTINF:0 group-title="台湾媒体",政谭新秀
+https://www.youtube.com/channel/UCIV3Card7sB1UHLLG8gWNUQ
+
+#EXTINF:0 group-title="台湾媒体",江湖百晓生
+https://www.youtube.com/channel/UCfqQVT1iMd1_cnahTy1Hieg
+
+#EXTINF:0 group-title="台湾媒体",江峰时刻
+https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
+
+#EXTINF:0 group-title="台湾媒体",美国之音中文网
+https://www.youtube.com/channel/UCt5zpwa264A0B-gaYtv1IpA
 
 #EXTINF:0 group-title="台湾媒体",關鍵時刻
 https://www.youtube.com/user/ettvCTime
 
-#EXTINF:0 group-title="自由媒体",王剑焦点新闻观察
-https://www.youtube.com/channel/UC8UCbiPrm2zN9nZHKdTevZA
+#EXTINF:0 group-title="台湾",路德社
+https://www.youtube.com/channel/UCm3Ysfy0iXhGbIDTNNwLqbQ
+
+#EXTINF:0 group-title="中国媒体",奇迹中国
+https://www.youtube.com/channel/UC_OQ7XjNXtFL8-j89NR1CAg/videos
+
+#EXTINF:0 group-title="中国媒体",中国时讯
+https://www.youtube.com/user/Woznyku
+
+#EXTINF:0 group-title="中国媒体",朝闻天下
+https://www.youtube.com/channel/UCEDbGLYdNLKy4wIvIvvB1YA
+
+#EXTINF:0 group-title="中国媒体",热点时局 Hot News【官方频道 每日更新 欢迎订阅】
+https://www.youtube.com/channel/UCGx4zi01M6g3eNNjJ0pGuJQ
+
+#EXTINF:0 group-title="中国媒体",牛掰了中国
+https://www.youtube.com/channel/UCDzElqutHscZt8D51bpgTbw
+
+#EXTINF:0 group-title="中国媒体",美国时事
+https://www.youtube.com/user/VONVONSOPRETTY/videos
+
+#EXTINF:0 group-title="中国媒体",中国新闻网
+https://www.youtube.com/channel/UCpbfXQsYBJTwq5lCkwGIeuQ
+
+#EXTINF:0 group-title="中国媒体",环球观察
+https://www.youtube.com/channel/UC6iTaivn7fHD8rmPQKcUdQg
+
+#EXTINF:0 group-title="中国媒体",开心天天
+https://www.youtube.com/channel/UCJ0gz1Tuls_ivqxaVt_g2lw
+
+#EXTINF:0 group-title="中国媒体",
 
 #EXTINF:0 group-title="中国媒体",CCTV中国中央电视台
 https://www.youtube.com/user/zhongguohaogequ
 
+#EXTINF:0 group-title="中国媒体",大国演义
+https://www.youtube.com/channel/UCvbi3f6RzJRjk5wAixsuCQw
+
+#EXTINF:0 group-title="中国媒体",龙腾大中国
+https://www.youtube.com/channel/UCtmltVWKWMD7POU6NUW5PVA
+
+#EXTINF:0 group-title="中国媒体",强国观察
+https://www.youtube.com/channel/UCI8_WuFmec6u9ItOsu8e6wQ
+
+#EXTINF:0 group-title="中国媒体",CCTV纪录
+https://www.youtube.com/user/documentarycntv
+
+#EXTINF:0 group-title="中国媒体",深度军事
+https://www.youtube.com/channel/UCiLelwlynsiAt5gGp6MM2dQ
+
+#EXTINF:0 group-title="中国媒体",了不起我的国
+https://www.youtube.com/channel/UCkMME-8tX3-kW_JeFwQpCHw/featured
+
+#EXTINF:0 group-title="中国媒体",了不起我的中国
+https://www.youtube.com/channel/UCM8fDEtRv0KqZaTp73_jPSw
+
+#EXTINF:0 group-title="香港媒体 粤语",on.cc 东网
+https://www.youtube.com/user/ontvnews
+
+#EXTINF:0 group-title="自由媒体",王剑焦点新闻观察
+https://www.youtube.com/channel/UC8UCbiPrm2zN9nZHKdTevZA
+
+#EXTINF:0 group-title="自由媒体",肥仔傑
+https://www.youtube.com/channel/UCIIwLX8REayuH-sNLf8c-3A
+
+Hk Live Media- HKLM
+https://www.youtube.com/channel/UCTDqeVcWMI1-3p_2H9xSFJA
