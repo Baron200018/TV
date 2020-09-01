@@ -1,33 +1,23 @@
 #EXTM3U
-#EXTINF:0 group-title="Streams",KTSF 26
+
+#EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
+http://104.251.118.50:8765/;?icy=http
+
+#EXTINF:0 group-title="电视+电台",KTSF 26电视台
 http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiJ7XCJzc2lkXCI6XCI0NmE4NjgwYWIyMmY0M2RhYmE2YzI2YmEyN2JiOGEwZlwiLFwic3NzXCI6MTU0Nzg2NzI2MCxcInNpZFwiOlwiNDJcIixcImNpZFwiOjk1LFwibWlkXCI6XCIxMFwiLFwidWFoXCI6XCJPTXlnVFpzcXN3enBUbW9OZzNGM3JRPT1cIn0iLCJwcmkiOiI3TFU5L0p1eHlZYzVSQzFBVkRjRlBMT3NnOXBXNkJrK3hHZ2xFSkJXMFpRTG9iNTg5YWlxcE9hd2tJNUtOeTNjdDBNSVZoMXlocmhHTW1RRitTTTV1bnRUc3JKMUI2WmVyVFkraitDN09HZz0iLCJpYXQiOjE1NDc4NjcyNjB9.Ubb2HfU7Y2CY3xuYVt2SjdS8V7Bh_hyoTEa536VJy_o
 
-#EXTINF:0 group-title="Streams",新唐人亞太電視台NTDAPTV
-https://www.youtube.com/user/NTDAPTV
-
-#EXTINF:0 group-title="Streams",王剑焦点新闻观察
-https://www.youtube.com/channel/UC8UCbiPrm2zN9nZHKdTevZA
-
-#EXTINF:0 group-title="Streams",關鍵時刻
-https://www.youtube.com/user/ettvCTime
-
-#EXTINF:0 group-title="Streams",singtaotv星電視
+#EXTINF:0 group-title="电视+电台",singtaotv星電視
 https://www.youtube.com/channel/UCYWSlgQB1BpfQTkNm_P5qIw
 
-#EXTINF:0 group-title="Streams",《大劇獨播MZTV》
-https://www.youtube.com/channel/UCNORTw_uosRNGgdEjwdHvuw
+#EXTINF:0 group-title="台湾媒体",新唐人亞太電視台NTDAPTV
+https://www.youtube.com/user/NTDAPTV
 
-#EXTINF:0 group-title="Streams",CCTV中国中央电视台
+#EXTINF:0 group-title="台湾媒体",關鍵時刻
+https://www.youtube.com/user/ettvCTime
+
+#EXTINF:0 group-title="自由媒体",王剑焦点新闻观察
+https://www.youtube.com/channel/UC8UCbiPrm2zN9nZHKdTevZA
+
+#EXTINF:0 group-title="中国媒体",CCTV中国中央电视台
 https://www.youtube.com/user/zhongguohaogequ
 
-#EXTINF:0 group-title="Streams1"radio=true,星岛电台 AM1400
-http://104.251.118.50:8765/;?icy=http
-
-#EXTINF:0 group-title="Streams1"radio=true,星岛电台 AM1400
-http://104.251.118.50:8765/;?icy=http
-
-#EXTINF:0 group-title="Streams2"radio=true,星岛电台 AM1400
-http://104.251.118.50:8765/;?icy=http
-
-#EXTINF:0 group-title="Streams2"radio=true,星岛电台 AM1400
-http://104.251.118.50:8765/;?icy=http
