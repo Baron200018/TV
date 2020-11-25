@@ -3,6 +3,9 @@
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
 
+#EXTINF:0 group-title="电视+电台",KTSF 26电视台（新）
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=49eccf73cffc4b399345c2566a6a02de
+
 #EXTINF:0 group-title="电视+电台",KTSF 26电视台
 http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiJ7XCJzc2lkXCI6XCI0NmE4NjgwYWIyMmY0M2RhYmE2YzI2YmEyN2JiOGEwZlwiLFwic3NzXCI6MTU0Nzg2NzI2MCxcInNpZFwiOlwiNDJcIixcImNpZFwiOjk1LFwibWlkXCI6XCIxMFwiLFwidWFoXCI6XCJPTXlnVFpzcXN3enBUbW9OZzNGM3JRPT1cIn0iLCJwcmkiOiI3TFU5L0p1eHlZYzVSQzFBVkRjRlBMT3NnOXBXNkJrK3hHZ2xFSkJXMFpRTG9iNTg5YWlxcE9hd2tJNUtOeTNjdDBNSVZoMXlocmhHTW1RRitTTTV1bnRUc3JKMUI2WmVyVFkraitDN09HZz0iLCJpYXQiOjE1NDc4NjcyNjB9.Ubb2HfU7Y2CY3xuYVt2SjdS8V7Bh_hyoTEa536VJy_o
 
