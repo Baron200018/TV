@@ -3,17 +3,17 @@
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
 
-#EXTINF:0 group-title="电视+电台",KTSF 26电视台（新）
-https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=49eccf73cffc4b399345c2566a6a02de
-
-#EXTINF:0 group-title="电视+电台",KTSF 26电视台（新2）
-https://www.vuit.com/live/17500/KTSF
-
 #EXTINF:0 group-title="电视+电台",KTSF 26电视台
 http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiJ7XCJzc2lkXCI6XCI0NmE4NjgwYWIyMmY0M2RhYmE2YzI2YmEyN2JiOGEwZlwiLFwic3NzXCI6MTU0Nzg2NzI2MCxcInNpZFwiOlwiNDJcIixcImNpZFwiOjk1LFwibWlkXCI6XCIxMFwiLFwidWFoXCI6XCJPTXlnVFpzcXN3enBUbW9OZzNGM3JRPT1cIn0iLCJwcmkiOiI3TFU5L0p1eHlZYzVSQzFBVkRjRlBMT3NnOXBXNkJrK3hHZ2xFSkJXMFpRTG9iNTg5YWlxcE9hd2tJNUtOeTNjdDBNSVZoMXlocmhHTW1RRitTTTV1bnRUc3JKMUI2WmVyVFkraitDN09HZz0iLCJpYXQiOjE1NDc4NjcyNjB9.Ubb2HfU7Y2CY3xuYVt2SjdS8V7Bh_hyoTEa536VJy_o
 
 #EXTINF:0 group-title="电视+电台",singtaotv星電視
 https://www.youtube.com/channel/UCYWSlgQB1BpfQTkNm_P5qIw
+
+#EXTINF:0 group-title="电视",【好看的电视剧】风尘妻负心郎
+https://www.youtube.com/watch?v=wd2eisfo3Hs&list=PL7WgfTzF4_MRNvDNGaX-3kRgD2vCfn6be&index=1
+
+#EXTINF:0 group-title="电视",【好看的电视剧】
+https://www.youtube.com/channel/UCv80wwC58SKqmF4mO-5aBcg
 
 #EXTINF:0 group-title="养生",胡乃文開講 - 名醫談養生
 https://www.youtube.com/channel/UCYUHZk66njfU1VFwSviXPGQ
@@ -193,55 +193,4 @@ https://www.youtube.com/watch?v=6i45J9CJ8xc&list=PLTGmcDaiiykN-jpZ96V5vkJsBvx513
 
 #EXTINF:0 group-title="电视",倚天屠龍記 01/42 (粵語中字) (吳啟華、黎姿、佘詩曼、江欣慈 主演; TVB/2000)
 https://www.youtube.com/watch?v=k3bOZFYRDcE&list=PLUxlohmoXral2CDL-OmnJarS6HWGZeFIe
-
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语1
-http://ok.renzuida.com/1911/多功能老婆粤语-01.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语2
-http://down.phpzuida.com/1911/多功能老婆粤语-02.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语3
-http://caizi.meizuida.com/1911/多功能老婆粤语-03.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语4
-http://down.phpzuida.com/1911/多功能老婆粤语-04.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语5
-http://down.phpzuida.com/1911/多功能老婆粤语-05.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语6
-http://caizi.meizuida.com/1912/多功能老婆粤语-06.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语7
-http://ok.renzuida.com/1912/多功能老婆粤语-07.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语8
-http://caizi.meizuida.com/1912/多功能老婆粤语-08.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语9
-http://down.phpzuida.com/1912/多功能老婆粤语-09.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语10
-http://zuida.downzuida.com/1912/多功能老婆粤语-10.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语11
-http://caizi.meizuida.com/1912/多功能老婆粤语-11.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语12
-http://zuida.downzuida.com/1912/多功能老婆粤语-12.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语13
-http://caizi.meizuida.com/1912/多功能老婆粤语-13.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语14
-http://down.phpzuida.com/1912/多功能老婆粤语-14.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语15
-http://ok.renzuida.com/1912/多功能老婆粤语-15.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语16
-http://down.phpzuida.com/1912/多功能老婆粤语-16.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语17
-http://xunlei.xiazai-zuida.com/1912/多功能老婆粤语-17.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语18
-http://xunlei.xiazai-zuida.com/1912/多功能老婆粤语-18.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语19
-http://down.phpzuida.com/1912/多功能老婆粤语-19.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语20
-http://ok.renzuida.com/1912/多功能老婆粤语-20.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语21
-http://down.phpzuida.com/1912/多功能老婆粤语-21.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语22
-http://ok.renzuida.com/1912/多功能老婆粤语-22.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语23
-http://zuida.downzuida.com/1912/多功能老婆粤语-23.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语24
-http://ok.renzuida.com/1912/多功能老婆粤语-24.mp4
-#EXTINF:0 group-title="粤语电视剧",多功能老婆粤语25
-http://ok.renzuida.com/1912/多功能老婆粤语-25.mp4
 
