@@ -3,9 +3,6 @@
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
 
-#EXTINF:0 group-title="No Need",KTSF 26电视台
-http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiJ7XCJzc2lkXCI6XCI0NmE4NjgwYWIyMmY0M2RhYmE2YzI2YmEyN2JiOGEwZlwiLFwic3NzXCI6MTU0Nzg2NzI2MCxcInNpZFwiOlwiNDJcIixcImNpZFwiOjk1LFwibWlkXCI6XCIxMFwiLFwidWFoXCI6XCJPTXlnVFpzcXN3enBUbW9OZzNGM3JRPT1cIn0iLCJwcmkiOiI3TFU5L0p1eHlZYzVSQzFBVkRjRlBMT3NnOXBXNkJrK3hHZ2xFSkJXMFpRTG9iNTg5YWlxcE9hd2tJNUtOeTNjdDBNSVZoMXlocmhHTW1RRitTTTV1bnRUc3JKMUI2WmVyVFkraitDN09HZz0iLCJpYXQiOjE1NDc4NjcyNjB9.Ubb2HfU7Y2CY3xuYVt2SjdS8V7Bh_hyoTEa536VJy_o
-
 #EXTINF:0 group-title="电视+电台",自说自话的总裁(油管频道)
 https://www.youtube.com/channel/UCgo_-fjJxnLwwwq5dSY72rg
 
@@ -235,4 +232,7 @@ https://www.youtube.com/watch?v=6i45J9CJ8xc&list=PLTGmcDaiiykN-jpZ96V5vkJsBvx513
 
 #EXTINF:0 group-title="电视",倚天屠龍記 01/42 (粵語中字) (吳啟華、黎姿、佘詩曼、江欣慈 主演; TVB/2000)
 https://www.youtube.com/watch?v=k3bOZFYRDcE&list=PLUxlohmoXral2CDL-OmnJarS6HWGZeFIe
+
+#EXTINF:0 group-title="No Need",KTSF 26电视台
+http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiJ7XCJzc2lkXCI6XCI0NmE4NjgwYWIyMmY0M2RhYmE2YzI2YmEyN2JiOGEwZlwiLFwic3NzXCI6MTU0Nzg2NzI2MCxcInNpZFwiOlwiNDJcIixcImNpZFwiOjk1LFwibWlkXCI6XCIxMFwiLFwidWFoXCI6XCJPTXlnVFpzcXN3enBUbW9OZzNGM3JRPT1cIn0iLCJwcmkiOiI3TFU5L0p1eHlZYzVSQzFBVkRjRlBMT3NnOXBXNkJrK3hHZ2xFSkJXMFpRTG9iNTg5YWlxcE9hd2tJNUtOeTNjdDBNSVZoMXlocmhHTW1RRitTTTV1bnRUc3JKMUI2WmVyVFkraitDN09HZz0iLCJpYXQiOjE1NDc4NjcyNjB9.Ubb2HfU7Y2CY3xuYVt2SjdS8V7Bh_hyoTEa536VJy_o
 
