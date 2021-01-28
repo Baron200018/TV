@@ -3,8 +3,41 @@
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
 
-#EXTINF:0 group-title="电视+电台",KTSF 26电视台
+#EXTINF:0 group-title="No Need",KTSF 26电视台
 http://playlistserver.aws.syncbak.com/playlist/10/3659760/variant.m3u8?st=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiJ7XCJzc2lkXCI6XCI0NmE4NjgwYWIyMmY0M2RhYmE2YzI2YmEyN2JiOGEwZlwiLFwic3NzXCI6MTU0Nzg2NzI2MCxcInNpZFwiOlwiNDJcIixcImNpZFwiOjk1LFwibWlkXCI6XCIxMFwiLFwidWFoXCI6XCJPTXlnVFpzcXN3enBUbW9OZzNGM3JRPT1cIn0iLCJwcmkiOiI3TFU5L0p1eHlZYzVSQzFBVkRjRlBMT3NnOXBXNkJrK3hHZ2xFSkJXMFpRTG9iNTg5YWlxcE9hd2tJNUtOeTNjdDBNSVZoMXlocmhHTW1RRitTTTV1bnRUc3JKMUI2WmVyVFkraitDN09HZz0iLCJpYXQiOjE1NDc4NjcyNjB9.Ubb2HfU7Y2CY3xuYVt2SjdS8V7Bh_hyoTEa536VJy_o
+
+#EXTINF:0 group-title="电视+电台",自说自话的总裁(油管频道)
+https://www.youtube.com/channel/UCgo_-fjJxnLwwwq5dSY72rg
+
+#EXTINF:0 group-title="电视+电台",38億年前的納米機器人：曾被雪藏100年的發現，未來將是拯救人類的超級武器……|自說自話的總裁
+https://www.youtube.com/watch?v=DBwui0FO_bs
+
+#EXTINF:0 group-title="电视+电台",幻海航行--科學小說
+https://www.youtube.com/channel/UCp1nO1bgVwks9b5EhKQGVag
+
+#EXTINF:0 group-title="电视+电台",日本路邊小吃 - 北海道 牡蠣，螃蟹，羊肉，生魚片，火鍋，甜瓜
+https://www.youtube.com/watch?v=uiWIKJVeRZ8&t
+
+#EXTINF:0 group-title="电视+电台",韩国小吃
+https://www.youtube.com/watch?v=7DuUbB27IEQ&list=PLs5o7kav-HOK4K5x97CAn2PgyKWvKjw6M&index=2&t
+
+#EXTINF:0 group-title="电视+电台",台湾小吃
+https://www.youtube.com/watch?v=0j_Qt7Vfbw4&list=PLs5o7kav-HOK4K5x97CAn2PgyKWvKjw6M&index=5
+
+#EXTINF:0 group-title="电视+电台",23岁小伙卖麻辣小吃，一晚卖3000元，买车买房替兄还债，人生赢家
+https://www.youtube.com/watch?v=xUaxzh4eS5E&list=PLs5o7kav-HOK4K5x97CAn2PgyKWvKjw6M&index=3
+
+#EXTINF:0 group-title="电视+电台",宇哥讲电影--（电影讲评）
+https://www.youtube.com/c/%E5%AE%87%E5%93%A5%E8%AE%B2%E7%94%B5%E5%BD%B1yuge
+
+#EXTINF:0 group-title="电视+电台",越哥说电影--（电影讲评）
+https://www.youtube.com/channel/UChgCVolsF6L7DWmOpWKSkMA
+
+#EXTINF:0 group-title="电视+电台",科幻梦工场 --（电影讲评）
+https://www.youtube.com/channel/UCTY7QED-uxqgUtU0COknFdg
+
+#EXTINF:0 group-title="电视+电台",花花与三猫 Cat Live
+https://www.youtube.com/channel/UCzlp2uazpgM6Tpm4kj9rqSA
 
 #EXTINF:0 group-title="电视+电台",singtaotv星電視
 https://www.youtube.com/channel/UCYWSlgQB1BpfQTkNm_P5qIw
