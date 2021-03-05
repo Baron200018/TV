@@ -2,11 +2,7 @@
 
 #EXTINF:0,group-title="电视+电台"radio=true,KTSF26 2021年(新)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=de9471f8861c9861bb8dcf0034ba2eb1
-
-#EXTINF:0,group-title="电视+电台"radio=true,KTSF26 2021年(新尝试)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://dai2-playlistserver.aws.syncbak.com/cpl/18713449/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTc1MDAsIm9vbSI6ZmFsc2UsImFwc3QiOm51bGwsInNzaWQiOiJmNTIyNjBjMDI4ZDc0MjU4ODVhN2JiNGZlYWNkZDIxYiIsImlwIjoiNTIuODYuODUuNjkiLCJ1aXAiOiIxMDQuMTc5LjIxNC4xNzEiLCJkbWEiOjgwNywic24iOiJXZWIgMTQ4YTk3MjAwZiAiLCJ1aWQiOm51bGwsIm1pZCI6IjE4NzEzNDQ5IiwibWQ1IjoiNmYyN2Y3MTAwNDUzZDI3YzE3NTRiZGMzODgwMzQ4NDkiLCJpYXQiOjE2MTQ4Mjg2NjMsImV4cCI6MTYxNDgyODc1MywiaXNzIjoiV0xTIiwic3ViIjoiM2M0MjFjNDMtMTliOS00NmJiLTgyNDUtMTRiOGJhNTM3ZDFmIn0.TtvTd2jPrE6ym-MixP7DeqZPVapAe4wj7BAJ8vKEd2Q
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=3bc6cad63cabb90325aa452e5f3a4996
 
 #EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
 http://104.251.118.50:8765/;?icy=http
