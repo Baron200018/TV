@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 group-title="Streams1"radio=true,星岛电台 AM1400
+http://104.251.118.50:8765/;?icy=http
+#EXTINF:0 group-title="Streams1"radio=true,星岛电台 AM1400
+http://104.251.118.50:8765/;?icy=http
+#EXTINF:0 group-title="Streams2"radio=true,星岛电台 AM1400
+http://104.251.118.50:8765/;?icy=http
+#EXTINF:0 group-title="Streams2"radio=true,星岛电台 AM1400
+http://104.251.118.50:8765/;?icy=http
