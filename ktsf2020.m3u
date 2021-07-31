@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 group-title="奥林匹克",Volleyball- Women's Pool B- ROC vs. Argentina.ts
+#EXTINF:0 group-title="奥林匹克",Volleyball- Women's Pool B- ROC vs. Argentina
 https://sprtlive67.akamaized.net/hls/live/620972/NBCOlympicsdbdb9065/clear-1/exp=1627785975~acl=%2fhls%2flive%2f620972*~data=hdntl~hmac=c33604ede44aa4a01b42b3db91693171172ef11a33c4cf269358095579750b6a/VIDEO_0_6596000_vod.m3u8
 
 #EXTINF:0,group-title="电视+电台"radio=true,KTSF26 2021年(新)
