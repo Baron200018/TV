@@ -3,14 +3,3 @@
 #EXTINF:0 group-title="奥林匹克",Volleyball- Women's Pool B- ROC vs. Argentina
 https://sprtlive67.akamaized.net/hls/live/620972/NBCOlympicsdbdb9065/clear-1/exp=1627785975~acl=%2fhls%2flive%2f620972*~data=hdntl~hmac=c33604ede44aa4a01b42b3db91693171172ef11a33c4cf269358095579750b6a/VIDEO_0_6596000_vod.m3u8
 
-#EXTINF:0,group-title="电视+电台"radio=true,KTSF26 2021年(新)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=1787760&session=e035bef6744905c20b911458ae5d6a89
-#EXTINF:0 group-title="电视+电台"radio=true,AM1400星岛电台
-http://104.251.118.50:8765/;?icy=http
-
-#EXTINF:0 group-title="电视+电台"radio=true,夫妻路边摆摊月入90000元，每天限时出摊3小时，来早来晚都吃不上
-https://www.youtube.com/watch?v=EhMoKncRC6Q
-
-#EXTINF:0 group-title="电视+电台"radio=true,陕南夫妇卖小吃，毛越长越好吃，七天只能来一次，52盘多一份没有
-https://www.youtube.com/watch?v=3Tu5YE8Jmeo
